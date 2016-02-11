@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./constitutioreiur02paul_0345.png"; bbox 0 0 1731 3277; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 10 1362 89">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 10 1362 89">
+     <span class='ocr_line' id='line_1_1' title="bbox 225 10 1362 89; baseline 0.007 -8"><span class='ocrx_word' id='word_1_1' title='bbox 225 10 234 15; x_wconf 75' lang='grc'><strong>”</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 274 13 560 82; x_wconf 59' lang='grc' dir='ltr'>ΒΙΝῶΞῑ;</span> <span class='ocrx_word' id='word_1_3' title='bbox 587 24 609 79; x_wconf 74' lang='lat' dir='ltr'><em>j</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 952 16 1071 77; x_wconf 50' lang='lat' dir='ltr'>mm?</span> <span class='ocrx_word' id='word_1_5' title='bbox 1112 17 1206 83; x_wconf 68' lang='lat'>27</span> <span class='ocrx_word' id='word_1_6' title='bbox 1232 12 1362 89; x_wconf 54' lang='lat'>558&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 331 906 1099 964">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 331 906 1099 964">
+     <span class='ocr_line' id='line_1_2' title="bbox 331 906 1099 964; baseline 0.001 -13"><span class='ocrx_word' id='word_1_7' title='bbox 331 909 397 951; x_wconf 89' lang='lat' dir='ltr'>HD</span> <span class='ocrx_word' id='word_1_8' title='bbox 669 909 855 963; x_wconf 71' lang='lat' dir='ltr'>Pauly,</span> <span class='ocrx_word' id='word_1_9' title='bbox 899 906 1099 964; x_wconf 61' lang='lat' dir='ltr'>Kziroly</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 332 971 1626 1153">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 332 971 1626 1153">
+     <span class='ocr_line' id='line_1_3' title="bbox 336 971 1626 1022; baseline 0.002 -3"><span class='ocrx_word' id='word_1_10' title='bbox 336 971 430 1022; x_wconf 71' lang='lat'>639</span> <span class='ocrx_word' id='word_1_11' title='bbox 767 976 1128 1020; x_wconf 65' lang='lat' dir='ltr'>Constitubio</span> <span class='ocrx_word' id='word_1_12' title='bbox 1164 978 1260 1020; x_wconf 65' lang='lat' dir='ltr'>rei</span> <span class='ocrx_word' id='word_1_13' title='bbox 1299 978 1626 1021; x_wconf 66' lang='lat' dir='ltr'><strong>urbm-ielis</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 332 1042 1161 1097; baseline 0 -12"><span class='ocrx_word' id='word_1_14' title='bbox 332 1042 463 1089; x_wconf 70' lang='lat' dir='ltr'><strong>H9P3</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 666 1043 827 1096; x_wconf 66' lang='lat' dir='ltr'>regni</span> <span class='ocrx_word' id='word_1_16' title='bbox 862 1043 1161 1097; x_wconf 68' lang='lat' dir='ltr'>Hungariae</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 334 1111 429 1153; baseline 0.011 -2"><span class='ocrx_word' id='word_1_17' title='bbox 334 1111 429 1153; x_wconf 73' lang='lat' dir='ltr'>V.2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 439 1718 1486 1865">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 439 1718 1486 1865">
+     <span class='ocr_line' id='line_1_6' title="bbox 606 1718 1320 1764; baseline 0.003 -2"><span class='ocrx_word' id='word_1_18' title='bbox 606 1718 787 1763; x_wconf 75' lang='lat' dir='ltr'>PLEASE</span> <span class='ocrx_word' id='word_1_19' title='bbox 823 1718 906 1764; x_wconf 91' lang='lat' dir='ltr'>DO</span> <span class='ocrx_word' id='word_1_20' title='bbox 941 1719 1060 1764; x_wconf 89' lang='grc' dir='ltr'>ΝΟΤ</span> <span class='ocrx_word' id='word_1_21' title='bbox 1096 1719 1320 1764; x_wconf 68' lang='lat' dir='ltr'>Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 439 1818 1486 1865; baseline -0.001 -1"><span class='ocrx_word' id='word_1_22' title='bbox 439 1818 619 1864; x_wconf 73' lang='lat' dir='ltr'>CARDS</span> <span class='ocrx_word' id='word_1_23' title='bbox 652 1819 731 1864; x_wconf 70' lang='grc' dir='ltr'>ΟΒ</span> <span class='ocrx_word' id='word_1_24' title='bbox 768 1818 901 1864; x_wconf 81' lang='grc' dir='ltr'>51.ΙΡ5</span> <span class='ocrx_word' id='word_1_25' title='bbox 938 1819 1094 1865; x_wconf 73' lang='lat' dir='ltr'>FROM</span> <span class='ocrx_word' id='word_1_26' title='bbox 1127 1819 1240 1865; x_wconf 84' lang='grc' dir='ltr'>ΤΗ15</span> <span class='ocrx_word' id='word_1_27' title='bbox 1275 1819 1486 1865; x_wconf 79' lang='grc' dir='ltr'>ΡΟΕΚΕΤ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 479 2009 1446 2055">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 479 2009 1446 2055">
+     <span class='ocr_line' id='line_1_8' title="bbox 479 2009 1446 2055; baseline -0.001 0"><span class='ocrx_word' id='word_1_28' title='bbox 479 2010 782 2055; x_wconf 64' lang='grc' dir='ltr'>υΝΝΕΙὶδΙΤΥ</span> <span class='ocrx_word' id='word_1_29' title='bbox 815 2010 890 2055; x_wconf 77' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_30' title='bbox 924 2009 1202 2055; x_wconf 77' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_31' title='bbox 1239 2011 1446 2055; x_wconf 72' lang='lat' dir='ltr'><strong>MBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
